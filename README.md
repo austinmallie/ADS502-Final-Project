@@ -24,5 +24,5 @@ A few examples are:
 Project Description
 
 The datasets that are being used highlight the calculated fat quantity, energy intake (kcal), food supply quantity (kg), and protein for different categories of food (all calculated as percentage of total intake amount). The sets were taken from Kaggle and covers 170 
-countries across 95 variables. The question we are trying to answer is how do dietary patterns influence Covid 19 mortality and recovery rates. We will be using heatmaps, OLS regression, Multiple Linear Regression, KNN Regression, Random Forest with and with RFECV, SVM
-modeling and XGBoost to help us find what affects the mortality and recovery rates from Covid 19. 
+countries across 95 variables. The question we are trying to answer is how do dietary patterns influence Covid 19 mortality. We will be using heatmaps, OLS regression, Multiple Linear Regression, KNN Regression, Random Forest with and with RFECV, SVM
+modeling and XGBoost to help us find what affects the mortality from Covid 19. 
